@@ -280,14 +280,4 @@ var hardCount: Int = 0
 - [SwiftData Guide](https://developer.apple.com/documentation/swiftdata)
 - [SwiftUI Animations](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
 
-## 📄 License
-
-This project is open source and available for personal use.
-
-## 🤝 Contributing
-
-Feel free to fork, modify, and enhance the app for your needs!
-
----
-
 **Built with SwiftUI, SwiftData, and determination** 🔥
